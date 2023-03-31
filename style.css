@@ -49,12 +49,12 @@ a{
 }
 
 #footer {
-  padding: 6% 13%;
+  padding: 4% 9%;
   text-align: center;
 }
 
 .footer-icon {
-  margin: 2rem;
+  margin: 1rem;
   font-size: 2rem;
 }
 
@@ -73,8 +73,11 @@ a{
 
 .image-profile {
   width: 300px;
-  border-radius: 50%;
   margin-bottom: 2rem;
+}
+
+.image-website2 {
+  width: 270px;'
 }
 
 .image-website {
