@@ -1,0 +1,82 @@
+body {
+  background-color: #f9f9f9;
+}
+
+.container-fluid {
+  max-width: 1200px;
+  margin: 10px auto;
+  padding: 75px 50px;
+}
+
+.navbar-brand {
+  font-family: sedgwick ave, sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  color: darkslategray;
+  margin-right: 20px;
+}
+
+.navbar-toggler {
+  margin-top: 15px;
+}
+
+.nav-item{
+  font-family: gilda display, sans-serif;
+  font-weight: bold;
+  font-size: 1rem;
+  color: darkolivegreen;
+  padding-top: 7px;
+}
+
+p { 
+  font-family: gilda display, sans-serif;
+  font-size: 1rem;
+}
+
+a{
+  text-decoration: none;
+}
+
+#features {
+  padding: 75px;
+}
+
+.row {
+  text-align: center;
+  max-width: 1200px;
+  margin: 10px auto;
+  padding: 75px 50px;
+}
+
+#footer {
+  padding: 6% 13%;
+  text-align: center;
+}
+
+.footer-icon {
+  margin: 2rem;
+  font-size: 2rem;
+}
+
+.footer-atsign {
+  margin: 1rem;
+}
+
+.col-md-4 {
+  padding: 10px 0;
+}
+
+
+.about-container {
+  text-align: center;
+}
+
+.image-profile {
+  width: 300px;
+  border-radius: 50%;
+  margin-bottom: 2rem;
+}
+
+.image-website {
+  width: 300px;
+}
